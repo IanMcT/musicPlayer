@@ -1,0 +1,17 @@
+c:\users\ian.mctavish\source\repos\musicPlayer\musicPlayer\bin\Debug\ragtime.mp3
+c:\users\ian.mctavish\source\repos\musicPlayer\musicPlayer\bin\Debug\musicPlayer.exe.config
+c:\users\ian.mctavish\source\repos\musicPlayer\musicPlayer\bin\Debug\musicPlayer.exe
+c:\users\ian.mctavish\source\repos\musicPlayer\musicPlayer\bin\Debug\musicPlayer.pdb
+c:\users\ian.mctavish\source\repos\musicPlayer\musicPlayer\obj\Debug\musicPlayer.csprojResolveAssemblyReference.cache
+c:\users\ian.mctavish\source\repos\musicPlayer\musicPlayer\obj\Debug\MainWindow.g.cs
+c:\users\ian.mctavish\source\repos\musicPlayer\musicPlayer\obj\Debug\App.g.cs
+c:\users\ian.mctavish\source\repos\musicPlayer\musicPlayer\obj\Debug\musicPlayer_Content.g.cs
+c:\users\ian.mctavish\source\repos\musicPlayer\musicPlayer\obj\Debug\musicPlayer_MarkupCompile.cache
+c:\users\ian.mctavish\source\repos\musicPlayer\musicPlayer\obj\Debug\musicPlayer_MarkupCompile.lref
+c:\users\ian.mctavish\source\repos\musicPlayer\musicPlayer\obj\Debug\MainWindow.baml
+c:\users\ian.mctavish\source\repos\musicPlayer\musicPlayer\obj\Debug\musicPlayer.g.resources
+c:\users\ian.mctavish\source\repos\musicPlayer\musicPlayer\obj\Debug\musicPlayer.Properties.Resources.resources
+c:\users\ian.mctavish\source\repos\musicPlayer\musicPlayer\obj\Debug\musicPlayer.csproj.GenerateResource.Cache
+c:\users\ian.mctavish\source\repos\musicPlayer\musicPlayer\obj\Debug\musicPlayer.csproj.CoreCompileInputs.cache
+c:\users\ian.mctavish\source\repos\musicPlayer\musicPlayer\obj\Debug\musicPlayer.exe
+c:\users\ian.mctavish\source\repos\musicPlayer\musicPlayer\obj\Debug\musicPlayer.pdb
